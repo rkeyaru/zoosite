@@ -1,0 +1,23 @@
+.dashboard1 { 
+    
+    height:200px;
+
+    background: #488a99;
+    
+    
+}
+.dashboard2 { 
+    height:200px;   
+
+    background: #744ee8;
+   
+}
+.dashboard3 { 
+    height:200px;
+    background:#ea6a47;
+   
+}
+.forminput{
+    width: 50%;
+    text-align: center  ;
+}
